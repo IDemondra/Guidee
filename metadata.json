@@ -1,0 +1,6 @@
+{
+  "name": "Guide Me",
+  "description": "Services de proximité, catalogues menus & hôtels, et transport à Madagascar",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
